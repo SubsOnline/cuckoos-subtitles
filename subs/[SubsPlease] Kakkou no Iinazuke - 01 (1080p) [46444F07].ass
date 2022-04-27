@@ -14,7 +14,7 @@ PlayResY: 360
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-Active Line: 419
+Active Line: 253
 Audio File: G:\Anime\cuckoos\video\[SubsPlease] Kakkou no Iinazuke - 01 (1080p) [46444F07].mkv
 Video File: G:\Anime\cuckoos\video\[SubsPlease] Kakkou no Iinazuke - 01 (1080p) [46444F07].mkv
 
@@ -123,7 +123,7 @@ Dialogue: 0,0:06:14.44,0:06:15.68,Main,Nagi,0,0,0,,Inusta...
 Dialogue: 0,0:06:15.68,0:06:17.55,Main,Erika,0,0,0,,Ale musiałeś mi w tym przeszkodzić.
 Dialogue: 0,0:06:17.55,0:06:19.07,Main,Nagi,0,0,0,,Wywołałabyś tym tylko skandal.
 Dialogue: 0,0:06:19.07,0:06:20.52,Main,Erika,0,0,0,,No i o to chodzi.
-Dialogue: 0,0:06:20.52,0:06:23.52,TLmode,Text,0,0,0,,{\3c&HFEFEFE&\1c&HFEFEFE&\an2\pos(320,342)\p1}m -9.59 -237.87 b 24.63 -244.77 56.63 -250.77 88.63 -256.77 90.99 -248.2 90.99 -241.2 91.51 -236.3 55.27 -230 27.7 -224.22 -4.64 -217.17 -7.5 -220.28 -7.5 -220.28 -7.5 -220.28{\p0}
+Dialogue: 0,0:06:20.52,0:06:23.52,Default,Text,0,0,0,,{\3c&HFEFEFE&\1c&HFEFEFE&\an2\pos(320,342)\p1}m -9.59 -237.87 b 24.63 -244.77 56.63 -250.77 88.63 -256.77 90.99 -248.2 90.99 -241.2 91.51 -236.3 55.27 -230 27.7 -224.22 -4.64 -217.17 -7.5 -220.28 -7.5 -220.28 -7.5 -220.28{\p0}
 Dialogue: 0,0:06:20.52,0:06:23.52,Sign_Basic,Text,0,0,0,,{\frz10.689\bord0\shad0\pos(312.098,74.692)\fnSignika SemiBold\c&H616862&\3c&HFCFEFD&}Nowy post
 Dialogue: 0,0:06:20.52,0:06:23.52,Main,Erika,0,0,0,,Ten filmik jest do niczego.\N
 Dialogue: 0,0:06:26.03,0:06:27.90,Main,Nagi,0,0,0,,To wszystko dla kilku obserwujących?
@@ -139,7 +139,7 @@ Dialogue: 0,0:06:47.88,0:06:49.10,Main,Erika,0,0,0,,Nie wiedziałeś?
 Dialogue: 0,0:06:49.10,0:06:50.75,Main,Erika,0,0,0,,Ślub można wziąć już w wieku 16 lat.
 Dialogue: 0,0:06:50.75,0:06:52.08,Main,Nagi,0,0,0,,To akurat wiem.
 Dialogue: 0,0:06:52.08,0:06:53.52,Main,Nagi,0,0,0,,Ale nie o to chodziło.
-Dialogue: 0,0:06:53.52,0:06:57.39,Main,Nagi,0,0,0,,A wiec istnieją ludzie w moim wieku, co wychodzą za mąż.
+Dialogue: 0,0:06:53.52,0:06:57.39,Main,Nagi,0,0,0,,A więc istnieją ludzie w moim wieku, co wychodzą za mąż.
 Dialogue: 0,0:06:57.39,0:06:58.97,Main,Nagi,0,0,0,,Chwileczkę...
 Dialogue: 0,0:06:58.97,0:07:01.13,Main,Nagi,0,0,0,,Wychodzi na to, że jesteśmy w podobnej sytuacji.
 Dialogue: 0,0:07:05.62,0:07:07.03,Main,Erika,0,0,0,,Rozumiem.
@@ -164,7 +164,7 @@ Dialogue: 0,0:07:47.39,0:07:48.60,Main,Erika,0,0,0,,A co z tobą?
 Dialogue: 0,0:07:48.60,0:07:50.04,Main,Nagi,0,0,0,,Umino Nagi.
 Dialogue: 0,0:07:50.04,0:07:51.53,Main,Nagi,0,0,0,,Drugoklasista.
 Dialogue: 0,0:07:51.53,0:07:53.45,Main,Nagi,0,0,0,,Chodzę do Liceum Megurogawa.
-Dialogue: 0,0:07:53.45,0:07:54.78,Main,Erika,0,0,0,,Magurogawa?!
+Dialogue: 0,0:07:53.45,0:07:54.78,Main,Erika,0,0,0,,Megurogawa?!
 Dialogue: 0,0:07:54.78,0:07:58.81,Main,Erika,0,0,0,,Chwileczkę, to nie jest\Nprzypadkiem liceum dla geniuszy?
 Dialogue: 0,0:07:58.81,0:08:00.88,Main,Erika,0,0,0,,W takim razie musisz być bardzo mądry, Nagi.
 Dialogue: 0,0:08:00.88,0:08:01.62,Main,Nagi,0,0,0,,Pewnie.
@@ -245,7 +245,7 @@ Dialogue: 0,0:10:54.00,0:10:57.36,Main,Nagi,0,0,0,,Nie możesz im pokazać tego 
 Dialogue: 0,0:10:57.36,0:10:58.41,Main,Erika,0,0,0,,Już czaję.
 Dialogue: 0,0:10:58.41,0:11:00.75,Main,Erika,0,0,0,,Zdjęcie mogłoby posłużyć za dowód, że mam chłopaka.
 Dialogue: 0,0:11:00.75,0:11:02.62,Main,Erika,0,0,0,,Bycie mądrym musi być miłe.
-Dialogue: 0,0:11:02.62,0:11:04.14,Main,Erika,0,0,0,,Nie potrzebujesz nawet Internetu.
+Dialogue: 0,0:11:02.62,0:11:04.14,Main,Erika,0,0,0,,Nie potrzebujesz nawet internetu.
 Dialogue: 0,0:11:04.14,0:11:07.13,Main,Nagi,0,0,0,,Raczej to ty nie używasz mózgu.
 Dialogue: 0,0:11:07.13,0:11:11.23,Main,Erika,0,0,0,,Ale jak na tacy widać, że coś jest na rzeczy,\Nwięc musi zrobić jeszcze jedno.
 Dialogue: 0,0:11:11.23,0:11:13.13,Main,Erika,0,0,0,,No i nie jestem na nim urocza.
@@ -287,7 +287,7 @@ Dialogue: 0,0:12:40.33,0:12:42.08,Main,Erika,0,0,0,,Będzie płacone kartą.
 Dialogue: 0,0:12:42.08,0:12:43.53,Main,Nagi,0,0,0,,Za wszystko?!
 Dialogue: 0,0:12:43.53,0:12:46.41,Main,Erika,0,0,0,,Zluzuj gacie i potraktuj to jako prezent.
 Dialogue: 0,0:12:46.41,0:12:49.95,Italics,Nagi,0,0,0,,Czyli na serio jest córką jakiegoś bogacza.
-Dialogue: 0,0:12:49.95,0:12:52.54,Italics,Nagi,0,0,0,,Kim do cholery są jej rodzice?
+Dialogue: 0,0:12:49.95,0:12:52.54,Italics,Nagi,0,0,0,,Kim, do cholery, są jej rodzice?
 Dialogue: 0,0:12:53.07,0:12:54.09,Main,Erika,0,0,0,,To zaczynajmy.
 Dialogue: 0,0:12:54.09,0:12:56.24,Main,Erika,0,0,0,,Udawaj zadowolonego i powiedź „ser”.
 Dialogue: 0,0:12:56.24,0:12:57.67,Main,Nagi,0,0,0,,Ser?
@@ -346,7 +346,7 @@ Dialogue: 0,0:14:47.65,0:14:51.16,Sign_Basic,Text,0,0,0,,{\fs50\an5\fsp4\bord0\s
 Dialogue: 0,0:14:47.65,0:14:51.16,Sign_Basic,Text,0,0,0,,{\an7\c&H131714&\bord0\shad0\pos(132,122)}Bo pęknę ze śmiechu XD\NKończ się już bawić\Ni wracaj do domu!
 Dialogue: 0,0:14:50.52,0:14:51.60,Main,Erika,0,0,0,,Szlag!
 Dialogue: 0,0:14:51.60,0:14:53.12,Main,Erika,0,0,0,,Jak się domyślił?!
-Dialogue: 0,0:14:53.12,0:14:55.88,Main,Nagi,0,0,0,,No i cały twój cwany plan spalił na panewkach.
+Dialogue: 0,0:14:53.12,0:14:55.88,Main,Nagi,0,0,0,,No i cały twój cwany plan spalił na panewce.
 Dialogue: 0,0:14:55.88,0:14:57.62,Main,Erika,0,0,0,,W takim wypadku...
 Dialogue: 0,0:14:58.01,0:14:59.69,Main,Erika,0,0,0,,Pozostał nam tylko seks!
 Dialogue: 0,0:14:59.69,0:15:01.12,Main,Nagi,0,0,0,,Ciebie to już do reszty pogięło.
@@ -412,7 +412,7 @@ Dialogue: 0,0:17:35.25,0:17:36.56,Main,Erika,0,0,0,,Słuchaj.
 Dialogue: 0,0:17:36.56,0:17:39.74,Main,Erika,0,0,0,,Skoro pewnie już nigdy się nie zobaczymy, \Nchcę ci coś powiedzieć...
 Dialogue: 0,0:17:40.40,0:17:43.83,Main,Erika,0,0,0,,Nie mam żadnych znajomych przez to, kim są moi rodzice.
 Dialogue: 0,0:17:44.27,0:17:48.04,Main,Erika,0,0,0,,Ale dzięki tobie świetnie się\Ndzisiaj bawiłam na tej niby randce.
-Dialogue: 0,0:17:57.10,0:18:00.68,Main,Erika,0,0,0,,Jeśli miałabym kogoś poślubić,\Nchciałabym żebyś to był ty, Nagi.
+Dialogue: 0,0:17:57.10,0:18:00.68,Main,Erika,0,0,0,,Jeśli miałabym kogoś poślubić,\Nchciałabym, żebyś to był ty, Nagi.
 Dialogue: 0,0:18:02.18,0:18:03.68,Main,Erika,0,0,0,,Żarcik.
 Dialogue: 0,0:18:04.20,0:18:05.58,Main,Erika,0,0,0,,Żegnaj.
 Dialogue: 0,0:18:12.90,0:18:15.93,Main,Nagi,0,0,0,,Nie skorzystam z tej propozycji.
