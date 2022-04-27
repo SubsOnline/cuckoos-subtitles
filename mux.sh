@@ -1,5 +1,6 @@
 #!/bin/bash
 
+[[ -z "$(which mkvmerge)" ]] && echo "mkvtoolnix is not installed" && exit 1
 
 #bash mux.sh EPISODE_NUMBER(INT)
 echo "Starting..."
