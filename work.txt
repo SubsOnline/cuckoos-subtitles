@@ -1,0 +1,6 @@
+1. tl -> suby z tlmode
+2. ts -> sam ts
+3. dialogi-> same dialogi bez korekty
+4. korekta -> same dialogi z korektą
+5. demo -> połączenie dialogi i ts
+6. subs -> połączonie korekta i ts
