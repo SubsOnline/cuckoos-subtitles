@@ -14,7 +14,7 @@ PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-Active Line: 405
+Active Line: 226
 Audio File: [PaMu] A Couple of Cuckoo's - 04 [1080p].mkv
 Video File: [PaMu] A Couple of Cuckoo's - 04 [1080p].mkv
 Last Style Storage: cuckoos
@@ -107,7 +107,7 @@ Dialogue: 10,0:04:55.40,0:04:57.88,Main,Nagi,0,0,0,,Następnym razem również z
 Dialogue: 10,0:04:57.88,0:05:03.16,Main,Nagi,0,0,0,,Jeżeli pokonam cię jeszcze 10 razy,\Nto zgodzisz się ze mną chodzić?
 Dialogue: 10,0:05:04.24,0:05:05.76,Main,Hiro,0,0,0,,To...
 Dialogue: 10,0:05:05.76,0:05:07.84,Main,Hiro,0,0,0,,To się nigdy nie wydarzy!
-Dialogue: 10,0:05:07.84,0:05:10.03,Main,Hiro,0,0,0,,Dlatego, że to ja będę górą następnym razem.
+Dialogue: 10,0:05:07.84,0:05:10.03,Main,Hiro,0,0,0,,Dlatego że to ja będę górą następnym razem.
 Dialogue: 10,0:05:10.52,0:05:12.09,Main,Nagi,0,0,0,,Nieprawda, bo ja!
 Dialogue: 10,0:05:12.91,0:05:14.36,Main,Hiro,0,0,0,,Nie, nie, nie, nie!
 Dialogue: 10,0:05:14.36,0:05:15.40,Main,Hiro,0,0,0,,Nie zgadzam się!
@@ -246,7 +246,7 @@ Dialogue: 10,0:11:47.42,0:11:50.38,Main,Erika,0,0,0,,Kto w ogóle powiedział, �
 Dialogue: 10,0:11:50.38,0:11:52.22,Main,Erika,0,0,0,,To własność mojego taty!
 Dialogue: 10,0:11:52.22,0:11:53.90,Main,Nagi,0,0,0,,To też mój ojciec.
 Dialogue: 10,0:11:53.90,0:11:55.04,Main,Nagi,0,0,0,,No i mam jego zgodę.
-Dialogue: 10,0:11:56.15,0:12:00.11,Main,Nagi,0,0,0,,Powiedź mi, czemu udawałaś, że wracasz\Ndo domu, skoro planowałaś tu zostać?
+Dialogue: 10,0:11:56.15,0:12:00.11,Main,Nagi,0,0,0,,Powiedz mi, czemu udawałaś, że wracasz\Ndo domu, skoro planowałaś tu zostać?
 Dialogue: 10,0:12:00.11,0:12:02.63,Main,Erika,0,0,0,,Jakby to...
 Dialogue: 10,0:12:04.28,0:12:06.28,Main,Erika,0,0,0,,Chciałam spróbować pomieszkać sama.
 Dialogue: 10,0:12:08.72,0:12:12.89,Main,Erika,0,0,0,,Nie mogłam znieść, że w porównaniu\Ndo ciebie nic nie potrafiłam.
@@ -255,14 +255,14 @@ Dialogue: 10,0:12:20.45,0:12:22.72,Main,Nagi,0,0,0,,Wygląda na to, że ktoś na
 Dialogue: 10,0:12:23.07,0:12:23.98,Main,Erika,0,0,0,,Daj mi spokój!
 Dialogue: 10,0:12:23.98,0:12:25.22,Main,Erika,0,0,0,,Za kogo ty się masz?
 Dialogue: 10,0:12:30.69,0:12:33.10,Main,Nagi,0,0,0,,W takim wypadku pytaj śmiało.
-Dialogue: 10,0:12:33.10,0:12:36.15,Main,Nagi,0,0,0,,Jako profesjonalny pan domu,\Nnauczę cię wszystkiego, czego potrzebujesz.
+Dialogue: 10,0:12:33.10,0:12:36.15,Main,Nagi,0,0,0,,Jako profesjonalny pan domu\Nnauczę cię wszystkiego, czego potrzebujesz.
 Dialogue: 10,0:12:36.87,0:12:38.02,Main,Erika,0,0,0,,Naprawdę?!
 Dialogue: 10,0:12:39.45,0:12:41.18,Main,Erika,0,0,0,,Możesz to dla mnie wyprać?
 Dialogue: 10,0:12:41.18,0:12:42.86,Main,Nagi,0,0,0,,Tobie się po prostu nie chce!
 Dialogue: 10,0:12:43.21,0:12:45.86,Main,Sachi,0,0,0,,Co?! Braciak nie wraca do domu?
 Dialogue: 10,0:12:45.86,0:12:48.00,Main,Namie,0,0,0,,A gdzie miałby spać?
 Dialogue: 10,0:12:48.00,0:12:51.07,Main,Namie,0,0,0,,Wygodniej mu będzie, jeśli tam zostanie.
-Dialogue: 10,0:12:51.07,0:12:53.34,Main,Namie,0,0,0,,Zwłaszcza że jest z nim Erika.
+Dialogue: 10,0:12:51.07,0:12:53.34,Main,Namie,0,0,0,,Zwłaszcza, że jest z nim Erika.
 Dialogue: 10,0:12:54.44,0:12:56.12,Main,Yohei,0,0,0,,Co jest Sachi?
 Dialogue: 10,0:12:56.51,0:12:58.44,Main,Yohei,0,0,0,,Brakuje ci braciszka?
 Dialogue: 10,0:12:58.44,0:12:59.79,Main,Sachi,0,0,0,,Jeszcze czego.
@@ -320,7 +320,7 @@ Dialogue: 10,0:15:25.61,0:15:27.57,Main,Sachi,0,0,0,,Naprawdę... ogromny.
 Dialogue: 10,0:15:28.93,0:15:29.90,Main,Nagi,0,0,0,,No i?
 Dialogue: 10,0:15:29.90,0:15:32.25,Main,Nagi,0,0,0,,Myślałem, że chciałaś spotkać swoją siostrę.
 Dialogue: 10,0:15:32.25,0:15:34.41,Main,Sachi,0,0,0,,Chciałam, ale...
-Dialogue: 10,0:15:34.96,0:15:38.70,Main,Sachi,0,0,0,,Po tym, jak do nas przyszła, sprawdziłam ją w Internecie.
+Dialogue: 10,0:15:34.96,0:15:38.70,Main,Sachi,0,0,0,,Po tym jak do nas przyszła, sprawdziłam ją w Internecie.
 Dialogue: 10,0:15:38.70,0:15:41.87,Main,Sachi,0,0,0,,No i wyszło, że jest popularniejsza, niż myślałam.
 Dialogue: 10,0:15:41.87,0:15:44.86,Main,Sachi,0,0,0,,Ale na żywo jest jeszcze ładniejsza niż na zdjęciach,
 Dialogue: 10,0:15:44.86,0:15:46.04,Main,Sachi,0,0,0,,więc się trochę spięłam.
@@ -367,7 +367,7 @@ Dialogue: 10,0:17:24.06,0:17:24.98,Main,Nagi,0,0,0,,Co tym razem?!
 Dialogue: 10,0:17:25.31,0:17:27.23,Main,Sachi,0,0,0,,Chciałam puścić wodę...
 Dialogue: 10,0:17:27.23,0:17:28.84,Main,Sachi,0,0,0,,Co ja włączyłam?!
 Dialogue: 10,0:17:28.84,0:17:30.86,Main,Nagi,0,0,0,,Zdziwiona?
-Dialogue: 10,0:17:30.86,0:17:33.64,Main,Sachi,0,0,0,,Przestań i weź, wyłącz to w końcu!
+Dialogue: 10,0:17:30.86,0:17:33.64,Main,Sachi,0,0,0,,Przestań i weź wyłącz to w końcu!
 Dialogue: 10,0:17:34.23,0:17:35.20,Main,Erika,0,0,0,,Patrz na to, Nagi.
 Dialogue: 10,0:17:35.20,0:17:37.55,Main,Nagi,0,0,0,,To jest młynek do zlewu.
 Dialogue: 10,0:17:37.55,0:17:39.36,Main,Nagi,0,0,0,,Mieli resztki jedzenia w drobny mak.
@@ -393,8 +393,8 @@ Dialogue: 10,0:18:34.64,0:18:37.59,Italics,Nagi,0,0,0,,nie ma szans, żeby od ra
 Dialogue: 10,0:18:37.92,0:18:41.37,Italics,Nagi,0,0,0,,Ale nie widzę przeszkód, żeby robiły to małymi kroczkami.
 Dialogue: 10,0:18:42.41,0:18:46.10,Main,Nagi,0,0,0,,Trudno mi uwierzyć, ale jecie w identyczny sposób.
 Dialogue: 10,0:18:46.48,0:18:48.80,Main,Nagi,0,0,0,,Naprawdę jesteście do siebie podobne.
-Dialogue: 10,0:18:51.77,0:18:54.12,Main,Sachi,0,0,0,,Co ty pleciesz braciak?
-Dialogue: 10,0:18:54.12,0:18:56.97,Main,Sachi,0,0,0,,Taka chłopczyca jak ja, nie ma polotu do niej.
+Dialogue: 10,0:18:51.77,0:18:54.12,Main,Sachi,0,0,0,,Co ty pleciesz, braciak?
+Dialogue: 10,0:18:54.12,0:18:56.97,Main,Sachi,0,0,0,,Taka chłopczyca jak ja, nie ma podjazdu do niej.
 Dialogue: 10,0:18:56.97,0:18:57.96,Main,Erika,0,0,0,,Właśnie!
 Dialogue: 10,0:18:57.96,0:19:01.11,Main,Erika,0,0,0,,W przeciwieństwie do mnie Sachi jest miła i troskliwa.
 Dialogue: 10,0:19:05.06,0:19:08.44,Main,Sachi,0,0,0,,Naprawdę jesteśmy podobne?
