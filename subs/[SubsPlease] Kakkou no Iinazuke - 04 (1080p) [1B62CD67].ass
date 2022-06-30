@@ -14,7 +14,7 @@ PlayResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
-Active Line: 358
+Active Line: 226
 Audio File: [PaMu] A Couple of Cuckoo's - 04 [1080p].mkv
 Video File: [PaMu] A Couple of Cuckoo's - 04 [1080p].mkv
 Last Style Storage: cuckoos
@@ -246,7 +246,7 @@ Dialogue: 10,0:11:47.42,0:11:50.38,Main,Erika,0,0,0,,Kto w ogóle powiedział, �
 Dialogue: 10,0:11:50.38,0:11:52.22,Main,Erika,0,0,0,,To własność mojego taty!
 Dialogue: 10,0:11:52.22,0:11:53.90,Main,Nagi,0,0,0,,To też mój ojciec.
 Dialogue: 10,0:11:53.90,0:11:55.04,Main,Nagi,0,0,0,,No i mam jego zgodę.
-Dialogue: 10,0:11:56.15,0:12:00.11,Main,Nagi,0,0,0,,Powiedź mi, czemu udawałaś, że wracasz\Ndo domu, skoro planowałaś tu zostać?
+Dialogue: 10,0:11:56.15,0:12:00.11,Main,Nagi,0,0,0,,Powiedz mi, czemu udawałaś, że wracasz\Ndo domu, skoro planowałaś tu zostać?
 Dialogue: 10,0:12:00.11,0:12:02.63,Main,Erika,0,0,0,,Jakby to...
 Dialogue: 10,0:12:04.28,0:12:06.28,Main,Erika,0,0,0,,Chciałam spróbować pomieszkać sama.
 Dialogue: 10,0:12:08.72,0:12:12.89,Main,Erika,0,0,0,,Nie mogłam znieść, że w porównaniu\Ndo ciebie nic nie potrafiłam.
@@ -262,7 +262,7 @@ Dialogue: 10,0:12:41.18,0:12:42.86,Main,Nagi,0,0,0,,Tobie się po prostu nie chc
 Dialogue: 10,0:12:43.21,0:12:45.86,Main,Sachi,0,0,0,,Co?! Braciak nie wraca do domu?
 Dialogue: 10,0:12:45.86,0:12:48.00,Main,Namie,0,0,0,,A gdzie miałby spać?
 Dialogue: 10,0:12:48.00,0:12:51.07,Main,Namie,0,0,0,,Wygodniej mu będzie, jeśli tam zostanie.
-Dialogue: 10,0:12:51.07,0:12:53.34,Main,Namie,0,0,0,,Zwłaszcza że jest z nim Erika.
+Dialogue: 10,0:12:51.07,0:12:53.34,Main,Namie,0,0,0,,Zwłaszcza, że jest z nim Erika.
 Dialogue: 10,0:12:54.44,0:12:56.12,Main,Yohei,0,0,0,,Co jest Sachi?
 Dialogue: 10,0:12:56.51,0:12:58.44,Main,Yohei,0,0,0,,Brakuje ci braciszka?
 Dialogue: 10,0:12:58.44,0:12:59.79,Main,Sachi,0,0,0,,Jeszcze czego.
