@@ -1,24 +1,28 @@
 {
-	"fonts": "fonts",
-	"title": "A Couple of Cuckoo's",
-	"prefix": "PaMu",
-	"resolution": "1080p",
-	"items": [
-		{
-			"video": "[SubsPlease] Kakkou no Iinazuke - 01 (1080p) [46444F07].mkv",
-			"subtitles": "[SubsPlease] Kakkou no Iinazuke - 01 (1080p) [46444F07].ass"
-		},
-		{
-			"video": "[SubsPlease] Kakkou no Iinazuke - 02 (1080p) [294AAB4E].mkv",
-			"subtitles": "[SubsPlease] Kakkou no Iinazuke - 02 (1080p) [294AAB4E].ass"
-		},
-		{
-			"video": "[SubsPlease] Kakkou no Iinazuke - 03 (1080p) [B1E693B3].mkv",
-			"subtitles": "[SubsPlease] Kakkou no Iinazuke - 03 (1080p) [B1E693B3].ass"
-		},
-		{
-			"video": "[SubsPlease] Kakkou no Iinazuke - 04 (1080p) [1B62CD67].mkv",
-			"subtitles": "[SubsPlease] Kakkou no Iinazuke - 04 (1080p) [1B62CD67].ass"
-		}
-	]
+  "fonts": "fonts",
+  "title": "A Couple of Cuckoo's",
+  "prefix": "PaMu",
+  "resolution": "1080p",
+  "items": [
+    {
+      "video": "[SubsPlease] Kakkou no Iinazuke - 01 (1080p) [46444F07].mkv",
+      "subtitles": "[SubsPlease] Kakkou no Iinazuke - 01 (1080p) [46444F07].ass"
+    },
+    {
+      "video": "[SubsPlease] Kakkou no Iinazuke - 02 (1080p) [294AAB4E].mkv",
+      "subtitles": "[SubsPlease] Kakkou no Iinazuke - 02 (1080p) [294AAB4E].ass"
+    },
+    {
+      "video": "[SubsPlease] Kakkou no Iinazuke - 03 (1080p) [B1E693B3].mkv",
+      "subtitles": "[SubsPlease] Kakkou no Iinazuke - 03 (1080p) [B1E693B3].ass"
+    },
+    {
+      "video": "[SubsPlease] Kakkou no Iinazuke - 04 (1080p) [1B62CD67].mkv",
+      "subtitles": "[SubsPlease] Kakkou no Iinazuke - 04 (1080p) [1B62CD67].ass"
+    },
+    {
+      "video": "[SubsPlease] Kakkou no Iinazuke - 05 (1080p) [F8D1BFAB].mkv",
+      "subtitles": "[SubsPlease] Kakkou no Iinazuke - 05 (1080p) [F8D1BFAB].ass"
+    }
+  ]
 }
